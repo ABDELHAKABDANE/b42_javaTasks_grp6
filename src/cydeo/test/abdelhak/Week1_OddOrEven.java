@@ -9,6 +9,10 @@ EX:
 identify(5) -> "Odd"
 identify(6) -> "Even"*/
 
+    public static void main(String[] args) {
 
+
+
+    }
 
 }
