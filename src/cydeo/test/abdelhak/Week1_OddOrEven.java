@@ -11,7 +11,7 @@ identify(6) -> "Even"*/
 
     public static void main(String[] args) {
 
-
+        System.out.println("check if it works or not");
 
     }
 
