@@ -11,6 +11,7 @@ identify(6) -> "Even"*/
 
     public static void main(String[] args) {
 
+        System.out.println("works after deleted project");
 
 
     }
